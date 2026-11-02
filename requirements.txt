@@ -1,0 +1,7 @@
+# Web app
+fastapi==0.128.6
+uvicorn[standard]==0.40.0
+# Env
+python-dotenv==1.2.1
+# LLM
+openai==2.17.0

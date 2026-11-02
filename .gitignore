@@ -1,0 +1,14 @@
+.env
+__pycache__/
+*.pyc
+
+# Local state and credentials
+.env
+.env.*
+!.env.example
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+node_modules/
+*.log
